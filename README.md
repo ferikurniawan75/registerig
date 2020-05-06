@@ -8,7 +8,7 @@
 • cd registerig <br>
 • php bot.php <br>
 
-[!] cara input socks 
+[!] cara input socks <br>
 • nano socks.txt <br>
 • masukan socks4 contoh (167.575.815.79:8080) <br>
 • jika sudah tekan volume bawah lalu ketik X <br>
