@@ -9,11 +9,11 @@
 • php bot.php <br>
 
 [!] cara input socks 
-• nano socks.txt
-• masukan socks4 contoh (167.575.815.79:8080)
-• jika sudah tekan volume bawah lalu ketik X
-• Ketik Y lalu enter
+• nano socks.txt <br>
+• masukan socks4 contoh (167.575.815.79:8080) <br>
+• jika sudah tekan volume bawah lalu ketik X <br>
+• Ketik Y lalu enter <br>
 
-@ add guys 
-[•] facebook : https://m.facebook.com/feri.pro.10
-[•] whatsapp : 087779230136
+# Add Bro
+[•] facebook : https://m.facebook.com/feri.pro.10 <br>
+[•] whatsapp : 087779230136 <br>
